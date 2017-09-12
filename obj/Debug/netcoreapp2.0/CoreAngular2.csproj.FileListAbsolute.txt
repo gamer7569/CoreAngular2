@@ -1,0 +1,10 @@
+D:\Documents\Kate Sky\KateSkyTechGitHub\CoreAngular2\bin\Debug\netcoreapp2.0\CoreAngular2.deps.json
+D:\Documents\Kate Sky\KateSkyTechGitHub\CoreAngular2\bin\Debug\netcoreapp2.0\CoreAngular2.runtimeconfig.json
+D:\Documents\Kate Sky\KateSkyTechGitHub\CoreAngular2\bin\Debug\netcoreapp2.0\CoreAngular2.runtimeconfig.dev.json
+D:\Documents\Kate Sky\KateSkyTechGitHub\CoreAngular2\bin\Debug\netcoreapp2.0\CoreAngular2.dll
+D:\Documents\Kate Sky\KateSkyTechGitHub\CoreAngular2\bin\Debug\netcoreapp2.0\CoreAngular2.pdb
+D:\Documents\Kate Sky\KateSkyTechGitHub\CoreAngular2\obj\Debug\netcoreapp2.0\CoreAngular2.csproj.CoreCompileInputs.cache
+D:\Documents\Kate Sky\KateSkyTechGitHub\CoreAngular2\obj\Debug\netcoreapp2.0\CoreAngular2.AssemblyInfoInputs.cache
+D:\Documents\Kate Sky\KateSkyTechGitHub\CoreAngular2\obj\Debug\netcoreapp2.0\CoreAngular2.AssemblyInfo.cs
+D:\Documents\Kate Sky\KateSkyTechGitHub\CoreAngular2\obj\Debug\netcoreapp2.0\CoreAngular2.dll
+D:\Documents\Kate Sky\KateSkyTechGitHub\CoreAngular2\obj\Debug\netcoreapp2.0\CoreAngular2.pdb
