@@ -3,10 +3,11 @@ import { Component } from '@angular/core';
 @Component({
     moduleId: module.id,
     selector: 'my-pairing',    
-    template: `<h2>Pairing</h2>
-    <input type="text" [value]="food" (input)="foodInput($event)"/>        
-    <p>Sriracha sauce is great with {{ food }}</p>`
-    ,
+    // template: `<h2>Pairing</h2>
+    // <input type="text" [value]="food" (input)="foodInput($event)"/>        
+    // <p>Sriracha sauce is great with {{ food }}</p>`
+    // ,
+    templateUrl:"pairing.component.html"
 })
 export class PairingComponent { 
     food = 'kielbasa';

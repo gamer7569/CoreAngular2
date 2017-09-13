@@ -14,5 +14,8 @@
     <DotNetCliToolReference Include="Microsoft.DotNet.Watcher.Tools" Version="1.0.0-msbuild2-final"/>
     <PackageReference Include="Microsoft.AspNetCore.Mvc"   Version="2.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <ProgectReference Include="..\CSA.Business\CSA.Business.csproj"/>
+  </ItemGroup>
 
 </Project>

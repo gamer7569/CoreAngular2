@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Documents\\Kate Sky\\KateSkyTechGitHub\\CoreAngular2\\CoreAngular2.csproj",
+      "projectUniqueName": "D:\\Documents\\Kate Sky\\KateSkyTechGitHub\\CoreAngular2\\CoreAngular2.csproj",
       "projectName": "CoreAngular2",
-      "projectPath": "d:\\Documents\\Kate Sky\\KateSkyTechGitHub\\CoreAngular2\\CoreAngular2.csproj",
+      "projectPath": "D:\\Documents\\Kate Sky\\KateSkyTechGitHub\\CoreAngular2\\CoreAngular2.csproj",
       "packagesPath": "C:\\Users\\ksky\\.nuget\\packages\\",
-      "outputPath": "d:\\Documents\\Kate Sky\\KateSkyTechGitHub\\CoreAngular2\\obj\\",
+      "outputPath": "D:\\Documents\\Kate Sky\\KateSkyTechGitHub\\CoreAngular2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
